@@ -1,6 +1,3 @@
-# X API KEY : HYNuKr21kbfk1fcbXc9YsBKun
-# X APY KEY SEECRET: NXSrwiJetdCHbbL6XBsZLAHS227BuJz8f7PCx65LUe8rNyjbls
-# A API e limitada a 20
 import tweepy
 
 API_KEY = 'API_KEY'
